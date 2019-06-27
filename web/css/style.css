@@ -1,0 +1,77 @@
+
+.centered{
+    text-align: center;
+}
+.head{
+
+    background: url("../logo.jpg") no-repeat;
+    width: 100%;
+    text-align: center;
+    height: auto;
+}
+.head img{
+    width: auto;
+}
+
+#headerwrap{
+    margin-top: -50px;
+    text-align: center;
+    background: url("../IMG_1459.JPG") no-repeat  center top;
+    min-height: 400px;
+    width: 100%;
+    background-size: auto 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#headerwrap h1{
+    margin-top: 50px;
+    color: #002a80;
+    font-size: 70px;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+#headerwrap h2{
+    color: #002a80;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.w {
+    padding-top: 5px;
+}
+.w h4 {
+    font-size: 25px;
+}
+.w h2 {
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #002a80;
+}
+
+.w2{
+    background-color: #e0e0e0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
