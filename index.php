@@ -1,3 +1,5 @@
-<?php header( 'Location: ../web/index.php' ) ;  ?>
+<?php require_once("web/index.php");
+?>
+
 
 
